@@ -1,7 +1,7 @@
 # jpa01-yixuan-wong
 
 Deployed at: https://jpa01-yixuan-wong.dokku-12.cs.ucsb.edu
- 
+
 # About this repo
 
 This is a minimal "Hello World" type webapp built with Spring Boot.
